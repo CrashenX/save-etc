@@ -1,0 +1,2 @@
+1) Initialize a git repo in you etc directory
+2) Add a symbolic link to this script in your cron.daily directory
